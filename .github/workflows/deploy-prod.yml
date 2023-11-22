@@ -11,7 +11,7 @@ env:
   ### Replace <username> with GitHub username ###
   ###############################################
   DOCKER_IMAGE_NAME: githublab-azure-ttt
-  AZURE_WEBAPP_NAME: prodgithublab-ttt-app
+  AZURE_WEBAPP_NAME: githublab-ttt-app
   ###############################################
 
 jobs:
